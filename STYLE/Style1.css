@@ -1,0 +1,14 @@
+li {
+    position: absolute;
+    list-style: none;
+    
+    text-decoration: none;
+
+}
+
+.menu {
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: #333;
+}
